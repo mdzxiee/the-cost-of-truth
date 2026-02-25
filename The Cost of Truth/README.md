@@ -1,12 +1,12 @@
-# The Cost of Truth: Global Press Safety and Global Corruption (2001–2025)
+# Institutional Integrity and Press Safety: A 25-Year Global Analysis (2001–2025)
 
 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyOTNjY2MtODA0NC00MzQwLTg5ZjItN2UyMDE0MDU1Yzg0IiwidCI6ImE4YWM1ODdmLWVkZTAtNDA0MS1hY2M3LWZhNmU3NDAwNWM2MiIsImMiOjEwfQ%3D%3D)** 
 **[Read the Full Analytical Insights Report](insights.md)** 
 
 ## 1. Problem Statement
-Is there a measurable relationship between systemic political corruption and journalist fatalities worldwide?
+Is there a measurable relationship between systemic public sector corruption and journalist fatalities worldwide?
 
-While armed conflict is widely recognized as a major threat to press safety, the role of long-standing institutional corruption in shaping journalist vulnerability during non-war periods remains less systematically examined. This project evaluates whether a country’s Corruption Perceptions Index (CPI) score is statistically associated with increased journalist fatality rates over a 25-year period.
+While armed conflict is widely recognized as a major threat to press safety, the role of long-standing institutional corruption in relation to journalist vulnerability during non-war periods remains less systematically examined. This project evaluates whether a country’s Corruption Perceptions Index (CPI) score is statistically associated with increased journalist fatality rates over a 25-year period.
 
 *Note: This analysis focuses on identifying patterns and correlations, not establishing direct causation.*
 
