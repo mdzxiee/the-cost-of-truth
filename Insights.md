@@ -1,124 +1,97 @@
 # Analytical Insights: The Cost of Truth (2001–2025)
 
 ## 1. Objective of the Analysis
-This analysis examines 25 years (2001–2025) of journalist fatality data alongside Corruption Perceptions Index (CPI) scores. The objective is to evaluate whether patterns exist between institutional integrity (as measured by CPI) and journalist safety outcomes.
 
-The findings presented below are based on interactive Power BI dashboard exploration using timeline, geography, and safety category filters. This document focuses on identifying statistical associations. It does not assume direct causation.
+This report looks at 25 years of data (2001–2025) to answer a specific question: *Does a country's level of public sector corruption affect how safe it is for journalists?* Using the interactive Power BI dashboard, we explored timelines, regions, and safety ratings to find the patterns hidden in the numbers. This document highlights the biggest takeaways, moving beyond the raw data to show the real human cost of corruption.
+
+---
 
 ## 2. Global Baseline Findings
 
 ![Global Baseline Dashboard](dashboard/01-global-baseline.png)
 
-**2.1 Key Metrics Summary**
-* Total journalist fatalities (2001–2025): 1,390
-* Global average CPI score: 41.7
-* Approximate share of fatalities in high-corruption countries: ~80%
+### 2.1 The Numbers at a Glance
+* **Total lives lost (2001–2025):** 1,390
+* **Global average corruption score (CPI):** 41.7 out of 100
+* **Share of deaths in highly corrupt countries:** ~80%
 
-**2.2 Data Findings**
-* A large majority of journalist fatalities occurred in countries classified under lower CPI score ranges.
-* The global CPI average remained relatively stable over the 25-year period.
-* Fatality counts fluctuated significantly year by year.
+### 2.2 Key Observations
+* The vast majority of journalist deaths happened in countries with severe government corruption.
+* Over the last 25 years, the global average for corruption hardly changed at all. 
+* However, the number of journalists killed went up and down drastically from year to year.
 
-**2.3 Analytical Interpretation**
-The data shows a strong statistical association between lower CPI scores and higher journalist fatality counts. While corruption levels appear structurally stable over time, journalist fatalities are event-driven and fluctuate sharply. This suggests:
-* Institutional weakness may create a persistent risk environment.
-* Acute geopolitical or national events act as amplifying factors that temporarily increase fatality counts.
+### 2.3 The "Peacetime Paradox"
+The most important finding of this project is the **"Peacetime Paradox."** The data clearly shows that nearly 80% of the danger to journalists comes from corrupt systems, not just active war zones. 
+
+While corruption is a constant, everyday problem, sudden crises - like an election, a cartel war, or a regime change - act as the spark that causes deaths to spike. This proves that broken systems and bad governments create deadly environments long before a war is ever declared.
 
 ---
 
-## 3. Segment Analysis
-To better understand global patterns, dashboard filters were applied to isolate specific regions, timeframes, and categories.
+## 3. Breaking Down the Data
 
-### 3.1 Regional Analysis – Asia Pacific
+To see how these global trends play out in real life, we used the dashboard to zoom in on specific regions and timeframes.
+
+### 3.1 Danger Beyond the Battlefield (Asia Pacific)
+
 ![Asia Pacific Regional Assessment](dashboard/02-scenario-ap.png)
 
-**Scope of Analysis**
-* Geography filter set to Asia Pacific.
+* **Scope of Analysis:** Looking only at the Asia Pacific region.
+* **Data Findings:** 336 lives were lost here, with the Philippines accounting for 88 deaths (peaking in 2009).
+* **Analytical Interpretation:** People often assume journalists are only in danger in the Middle East. The data from the Asia Pacific region proves that physical distance from global wars does not keep people safe if their own public institutions are deeply corrupt. 
 
-**Data Findings**
-* 336 total fatalities recorded in the region.
-* Regional CPI average: 42.0
-* The Philippines accounts for 88 deaths.
-* 2009 recorded as the deadliest year in that country.
 
-**Analytical Interpretation**
-The Asia Pacific region demonstrates measurable vulnerability in journalist safety outcomes. Fatality concentration within specific countries indicates that localized national events significantly influence regional totals. This finding shows that risk distribution is geographically diverse and not limited to traditionally high-conflict regions.
+### 3.2 How Wars Shift the Map (2012–2015)
 
-### 3.2 Timeframe Analysis – 2012–2015
 ![Conflict Window 2012-2015](dashboard/03-scenario-conflict.png)
 
-**Scope of Analysis**
-* Timeline filter set to 2012–2015.
+* **Scope of Analysis:** Looking only at the years 2012 to 2015.
+* **Data Findings:** 281 lives were lost globally, with Syria accounting for 92 of those deaths.
+* **Analytical Interpretation:** When a massive conflict breaks out, the danger on the global map shrinks and centers directly on that war zone. During this four-year window, the danger was heavily pulled toward the Syrian civil war. 
 
-**Data Findings**
-* 281 global fatalities during this four-year period.
-* Syria recorded 92 fatalities.
-* 2012 marked its highest annual count.
 
-**Analytical Interpretation**
-During this timeframe, journalist fatalities became geographically concentrated in areas experiencing intense conflict. The data illustrates how short-term geopolitical instability can substantially shift global fatality distribution within a limited period.
+### 3.3 The Exception to the Rule (Israel)
 
-### 3.3 Country-Level Analysis – Israel
 ![Outlier Assessment Israel](dashboard/04-scenario-israel.png)
 
-**Scope of Analysis**
-* Country-level isolation of Israel.
+* **Scope of Analysis:** Isolating the data for Israel.
+* **Data Findings:** 210 lives lost, making 2024 the deadliest year.
+* **Analytical Interpretation:** In data, the exceptions are just as important as the rules. Israel has a decent corruption score (62.6), yet it had a massive spike in deaths. This shows that while corruption is the main driver of danger globally, a sudden, explosive war overrides everything else and can cause record-breaking fatalities.
 
-**Data Findings**
-* 210 total fatalities recorded.
-* CPI average under this filter: 62.6
-* 2024 recorded as the deadliest year.
 
-**Analytical Interpretation**
-Despite maintaining a comparatively higher CPI score, fatality counts increased sharply during specific conflict periods. This case represents a statistical outlier within the broader trend. The pattern indicates that large-scale geopolitical events can elevate journalist risk independently of long-term institutional corruption levels.
+### 3.4 The Power of Clean Governments (The "Safe" Category)
 
-### 3.4 Category-Based Analysis – Safe Classification
 ![Safe Baseline Category](dashboard/05-scenario-safe.png)
 
-**Scope of Analysis**
-* Safety Category filter set to “Safe”.
+* **Scope of Analysis:** Looking only at countries rated "Safe" (low corruption).
+* **Data Findings:** 0 lives lost. 
+* **Analytical Interpretation:** This is perhaps the most powerful number in the entire dashboard: **zero**. When we look strictly at countries with clean, transparent public sectors, the danger to journalists virtually disappears. This is clear proof that strong, honest institutions protect press freedom.
 
-**Data Findings**
-* 0 fatalities recorded.
-* CPI average: 43.0
 
-**Analytical Interpretation**
-When restricted to countries categorized as “Safe,” journalist fatalities are not observed within this subset. This finding is consistent with the broader pattern linking stronger institutional conditions to improved press safety outcomes.
+### 3.5 A Closer Look at the Paradox (The Philippines)
 
-### 3.5 Country-Level Micro Analysis – The Philippines
 ![Philippines Micro Analysis](dashboard/06-scenario-philippines.png)
 
-**Scope of Analysis**
-* Country-level isolation of the Philippines.
+* **Scope of Analysis:** Isolating the data for the Philippines.
+* **Data Findings:** 88 lives lost, with a massive spike in a single year (2009).
+* **Analytical Interpretation:** Instead of a steady number of deaths each year, the Philippines saw a single, catastrophic event in 2009. This perfectly illustrates the "Peacetime Paradox." Without a declared war, danger in corrupt countries usually comes from sudden, targeted attacks rather than daily crossfire.
 
-**Data Findings**
-* 88 total fatalities recorded.
-* Significant spike observed in 2009.
 
-**Analytical Interpretation**
-Fatality distribution in this case appears concentrated around a specific year rather than sustained over multiple years. This suggests that isolated national events can produce sharp increases in journalist risk, even outside prolonged armed conflict environments.
+### 3.6 The Deadliest Era is Now (2024–2025)
 
-### 3.6 Recent Global Peaks (2024–2025)
 ![Recent Global Peaks](dashboard/07-scenario-recent.png)
 
-**Scope of Analysis**
-* Timeline filter set to 2024–2025.
-
-**Data Findings**
-* 2024 recorded 105 global fatalities (highest in dataset).
-* 76 fatalities occurred in Israel during 2024.
-* 2025 recorded 92 fatalities globally.
-
-**Analytical Interpretation**
-Recent peaks significantly influenced the overall 25-year trend. The data shows that concentrated regional events can substantially affect global annual totals. This reinforces the importance of distinguishing between long-term structural risk patterns and short-term crisis-driven spikes.
+* **Scope of Analysis:** Looking at the most recent years (2024–2025).
+* **Data Findings:** 2024 was the deadliest year in recorded history with 105 deaths. 
+* **Analytical Interpretation:** This issue is not stuck in the past; it is currently peaking. A single modern regional conflict drove the global death toll to its highest point in 25 years. 
 
 ---
 
-## 4. Overall Analytical Summary
-Across the 25-year dataset, the following patterns emerge:
-* Lower CPI scores are statistically associated with higher journalist fatality counts.
-* Institutional corruption appears to function as a structural risk factor.
-* Acute geopolitical conflicts act as short-term amplifiers.
-* Fatality trends are shaped by both systemic conditions and event-driven disruptions.
+## 4. Final Takeaways
 
-This analysis highlights measurable associations within the dataset and provides a structured foundation for further statistical modeling or hypothesis testing.
+Across 25 years and 1,390 lost lives, the numbers tell a clear and simple story: **transparency saves lives.**
+
+1. **Corruption is the Fuel:** Countries with severe corruption account for the vast majority of journalist deaths. 
+2. **The Illusion of Peace:** A country does not need to be fighting a war to be deadly. A broken justice system is dangerous enough on its own.
+3. **Honesty Protects:** In countries where governments are held accountable and corruption is low, journalists are overwhelmingly safe.
+
+The data proves that protecting the press requires more than just stopping wars—it requires fixing broken, corrupt systems from the inside out.
