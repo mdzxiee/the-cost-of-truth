@@ -1,7 +1,7 @@
 # Institutional Integrity and Press Safety: A 25-Year Global Analysis (2001–2025)
 
 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyOTNjY2MtODA0NC00MzQwLTg5ZjItN2UyMDE0MDU1Yzg0IiwidCI6ImE4YWM1ODdmLWVkZTAtNDA0MS1hY2M3LWZhNmU3NDAwNWM2MiIsImMiOjEwfQ%3D%3D)** 
-**[Read the Full Analytical Insights Report](insights.md)** 
+**[Read the Full Analytical Insights Report](Insights.md)** 
 
 ## 1. Problem Statement
 Is there a measurable relationship between systemic public sector corruption and journalist fatalities worldwide?
@@ -89,8 +89,7 @@ To explore this project locally:
 1. Clone the repository.
 2. Navigate to the `/data` folder for cleaned `.csv` datasets.
 3. Open `The_Cost_Of_Truth.pbix` in Microsoft Power BI Desktop.
-4. Review `insights.md` for a detailed analytical narrative.
-5. Alternatively, view `dashboard_preview.pdf`.
+4. Review `Insights.md` for a detailed analytical narrative.
 
 ## 9. Project Contribution
 This project demonstrates how integrating independent global datasets can generate structured, data-driven insight into institutional risk environments. Rather than focusing solely on conflict zones, the analysis highlights the importance of examining long-term governance conditions when evaluating press safety risks.
