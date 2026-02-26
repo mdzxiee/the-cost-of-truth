@@ -69,7 +69,7 @@ The cleaned dataset contains the following primary dimensions and measures:
 ## 6. Tools & Techniques
 * **Data Processing:** Microsoft Excel
 * **Modeling & Visualization:** Microsoft Power BI
-* **Language:** DAX (Data Analysis Expressions)
+* **Data Modeling:** Power BI Aggregations & Relational Mapping
 * **Techniques Applied:**
   * Time-Series Analysis
   * Logarithmic Scaling
