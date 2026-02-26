@@ -38,7 +38,7 @@ Source:[https://cpj.org/data/](https://cpj.org/data/)
 
 ---
 
-## 🏛️ Corruption Perceptions Index (CPI) Data  
+## Corruption Perceptions Index (CPI) Data  
 Sources: [https://datahub.io/core/corruption-perceptions-index](https://datahub.io/core/corruption-perceptions-index)  & [https://www.transparency.org/en/cpi/2025](https://www.transparency.org/en/cpi/2025)
 
 - **`cpi-0111-rawdata.csv`**  
@@ -105,4 +105,4 @@ The final dataset was constructed as follows:
 
 ---
 
-This directory documents the full data preparation process for the “Cost of Truth” corruption and journalist safety analysis.
+This directory describes how the datasets were sourced, prepared, and integrated for the “Cost of Truth” analysis.
