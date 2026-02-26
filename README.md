@@ -1,7 +1,8 @@
 # Institutional Integrity and Press Safety: A 25-Year Global Analysis (2001–2025)
 
-**[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyOTNjY2MtODA0NC00MzQwLTg5ZjItN2UyMDE0MDU1Yzg0IiwidCI6ImE4YWM1ODdmLWVkZTAtNDA0MS1hY2M3LWZhNmU3NDAwNWM2MiIsImMiOjEwfQ%3D%3D)** 
-**[Read the Full Analytical Insights Report](Insights.md)** 
+![Global Baseline Dashboard](dashboard/01-global-baseline.png)
+
+**[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEyOTNjY2MtODA0NC00MzQwLTg5ZjItN2UyMDE0MDU1Yzg0IiwidCI6ImE4YWM1ODdmLWVkZTAtNDA0MS1hY2M3LWZhNmU3NDAwNWM2MiIsImMiOjEwfQ%3D%3D)** **[Read the Full Analytical Insights Report](Insights.md)** 
 
 ## 1. Problem Statement
 Is there a measurable relationship between systemic public sector corruption and journalist fatalities worldwide?
